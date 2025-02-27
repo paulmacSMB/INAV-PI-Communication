@@ -1,0 +1,1 @@
+set baro_calibrate_at_startup = ON  // auto calibrates when started
